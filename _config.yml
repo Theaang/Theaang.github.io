@@ -115,9 +115,11 @@ analytics:
 author:
   name             : "Thea Ng"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A wonderland of the computational cognitive neuroscience."
+  bio              : "|
+A wonderland of the computational cognitive neuroscience.
+wu26r at mtholyoke dot edu
+"
   location         : "Mount Holyoke College"
-  email            : "wu26r at mtholyoke dot edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
