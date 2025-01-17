@@ -1,9 +1,7 @@
 ---
-title: 
-permalink: /index/
-layout: single
+permalink: /
+layout: splash
 author_profile: false
-classes: wide
 ---
 
 I'm still building the home page! Read my publications, CV, and miscellaneous in advance.
