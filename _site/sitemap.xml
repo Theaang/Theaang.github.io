@@ -7,9 +7,6 @@
 <loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/miscellaneous/</loc>
 </url>
 <url>
@@ -31,5 +28,9 @@
 <url>
 <loc>http://localhost:4000/assets/files/Research/Neural%20Inter-area%20Interaction%20Poster.pdf</loc>
 <lastmod>2025-01-17T04:36:51-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+<lastmod>2025-01-17T05:55:19-05:00</lastmod>
 </url>
 </urlset>
