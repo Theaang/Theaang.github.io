@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Research"
-    url: /year-archive/
+    url: /research/
   - title: "Publication"
-    url: /sitemap/
+    url: /publication/
   - title: "CV"
-    url: /sitemap/
+    url: /cv/
   - title: "Modeling"
-    url: /sitemap/
+    url: /modeling/
   - title: "Resources"
-    url: /sitemap/
+    url: /resources/
   - title: "Blogs"
-    url: /sitemap/
+    url: /blogs/
+  - title: "Miscellaneous"
+    url: /miscellaneous/

@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -123,7 +123,7 @@ A wonderland of the computational cognitive neuroscience.
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "Bluesy"
+    - label: "Bluesky"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://bluesky.com/"
     - label: "GitHub"
@@ -136,24 +136,32 @@ A wonderland of the computational cognitive neuroscience.
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+
+    - label: "Google Scholar"
+      url: https://scholar.google.com/citations?user=0zPFexEAAAAJ&hl=en
+
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: https://www.researchgate.net/profile/Thea-Ng
+
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0009-0008-9521-9254
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://github.com/theaang/
+
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/thea-ng-449473256
+
+    - label: "Bluesky"
+      url: https://bsky.app/profile/theacyng.bsky.social
+
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: https://x.com/thea_cyng
 
 # Reading Files
 include:
