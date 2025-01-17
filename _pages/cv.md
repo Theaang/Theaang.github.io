@@ -8,7 +8,7 @@ classes: wide
 
 50 College St, South Hadley, MA 01075 <br>
 wu26r at mtholyoke dot edu <br>
-Download the full version of my CV [here](assets/files/Thea_Ng_CV.pdf).
+Download the full version of my CV [here](/assets/files/CV/Thea_Ng_CV.pdf).
 
 ## **EDUCATION**  
 **Mount Holyoke College**, South Hadley, MA  

@@ -42,31 +42,31 @@ Chat anything with me on [Bluesky](https://bsky.app/profile/theacyng.bsky.social
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
 <div>
-  <img src="assets/files/Women-in-STEM.png" alt="Women in STEM" style="width: 100px; height: auto;">
+  <img src="/assets/files/Miscellaneous/Women-in-STEM.png" alt="Women in STEM" style="width: 100px; height: auto;">
   <p>Women in STEM</p>
 </div>
 
 <div>
-  <img src="assets/files/brain.png" alt="Brain" style="width: 100px; height: 77px;">
+  <img src="/assets/files/Miscellaneous/brain.png" alt="Brain" style="width: 100px; height: 77px;">
   <p>Science is Real</p>
 </div>
 
 <div>
-  <img src="assets/files/LGBTQ.png" alt="LGBTQ+ Rights" style="width: 96px; height: auto;">
+  <img src="/assets/files/Miscellaneous/LGBTQ.png" alt="LGBTQ+ Rights" style="width: 96px; height: auto;">
   <p>Love is Love</p>
 </div>
 
 <div>
-  <img src="assets/files/BLM.jpg" alt="BLM" style="width: 100px; height: auto;">
+  <img src="/assets/files/Miscellaneous/BLM.jpg" alt="BLM" style="width: 100px; height: auto;">
   <p>Black Lives Matter</p>
 </div>
 
 <div>
-  <img src="assets/files/Open-Science.png" alt="Open Science" style="width: 37px; height: auto;">
+  <img src="/assets/files/Miscellaneous/Open-Science.png" alt="Open Science" style="width: 37px; height: auto;">
   <p>Open Science</p>
 </div>
 
 <div>
-  <img src="assets/files/Umbrella.png" alt="Democracy" style="width: 58px; height: auto;">
+  <img src="/assets/files/Miscellaneous/Umbrella.png" alt="Democracy" style="width: 58px; height: auto;">
   <p>Stand for <a href="https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests"  target="_blank" style="text-decoration: none; color: inherit;">Democracy</a></p>
 </div>
