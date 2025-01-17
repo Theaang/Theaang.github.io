@@ -9,7 +9,7 @@ classes: wide
 ## **My current lab**
 
 <a href="https://www.somneurolab.com/">
-  <img src="assets/files/somneuro.png" alt="SomNeurolab" style="width: 380px; height: auto;">
+  <img src="https://theaang.github.io/research/assets/files/somneuro.png" alt="SomNeurolab" style="width: 380px; height: auto;">
 </a>
 
 Read the excellent works of other lab members [here](https://www.somneurolab.com/publications)!
