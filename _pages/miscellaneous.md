@@ -34,7 +34,7 @@ Hong Kong, [Pioneer Valley](https://www.google.com/maps/place/pioneer+valley+loc
 **Collaboration, connection, or have questions?** <br>
 Academic: wu26r at mtholyoke dot edu <br>
 Personal: thea dot cyeng at gmail dot com <br>
-I current work on a flexible schedule, usually from 1pm-12am. <br>
+I currently work on a flexible schedule, usually from 1pm-12am. <br>
 Chat anything with me on [Bluesky](https://bsky.app/profile/theacyng.bsky.social) or [Twitter (X)](https://x.com/thea_cyng) **anytime**!
 
 ## **I support**
