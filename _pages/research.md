@@ -14,7 +14,11 @@ classes: wide
 
 Read the excellent works of other lab members [here](https://www.somneurolab.com/publications)!
 
-I'm still building the other parts of this section! -- 01/17/2025
+## **Neural Dynamics**
+ 
+ <img src="/assets/files/Research/neuraldynamics.png" alt="Neural Dynamics" style="width: 380px; height: auto;">
+
+I'm still building the other parts of this section! -- 02/05/2025
 
 ## **Summer programs**
 
