@@ -1,6 +1,6 @@
 ---
 title: Preview of Multimodal Criticality Manuscript
-permalink: /publication/multimodalcrit
+permalink: /publication/multimodalcrit/
 layout: single
 author_profile: false
 classes: wide

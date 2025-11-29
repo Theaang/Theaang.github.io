@@ -1,6 +1,6 @@
 ---
 title: Preview of Local Neural Dynamics Manuscript
-permalink: /publication/localsleep
+permalink: /publication/localsleep/
 layout: single
 author_profile: false
 classes: wide

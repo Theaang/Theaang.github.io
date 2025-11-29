@@ -4,7 +4,7 @@
 <loc>http://localhost:4000/blogs/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/publication/multimodalcrit</loc>
+<loc>http://localhost:4000/publication/multimodalcrit/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/cv/</loc>
@@ -13,7 +13,7 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/publication/localsleep</loc>
+<loc>http://localhost:4000/publication/localsleep/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/miscellaneous/</loc>
@@ -31,7 +31,7 @@
 <loc>http://localhost:4000/resources/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/publication/travelingwave</loc>
+<loc>http://localhost:4000/publication/travelingwave/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/files/CV/Thea_Ng_CV.pdf</loc>

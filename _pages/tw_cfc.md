@@ -1,6 +1,6 @@
 ---
 title: Preview of Traveling Wave Manuscript
-permalink: /publication/travelingwave
+permalink: /publication/travelingwave/
 layout: single
 author_profile: false
 classes: wide
