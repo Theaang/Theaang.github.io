@@ -8,45 +8,62 @@ classes: wide
 
 50 College St, South Hadley, MA 01075 <br>
 wu26r at mtholyoke dot edu <br>
-Download the full version of my CV [here](/assets/files/CV/Thea_Ng_CV.pdf).
+Download the full version of my CV [here](/assets/files/CV/Thea_CV.pdf).
 
 ## **EDUCATION**  
 **Mount Holyoke College**, South Hadley, MA  
-Expected B.A. in Neuroscience and Mathematics, May 2026 <br>
-GPA: 3.96/4.00  &nbsp;&nbsp; Full Financial Aid (4 years)  
-
-## **PUBLICATIONS**  
-1. **Ng, T.**, Noh, E., & Spencer, R. M. C. (2024). *Does slow oscillation-spindle coupling contribute to sleep-dependent memory consolidation? A Bayesian meta-analysis.* eLife, 13, RP101992. [https://doi.org/10.7554/eLife.101992.1](https://doi.org/10.7554/eLife.101992.1), [PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC11383665/), [Code](https://osf.io/9mh5d/)
-
-2. **Ng, T.**, Barnes, M., Delvey, C., Gaudette, L., Jones, B., Mooney, L., et al. (Submit by March 2025). *Hierarchical organizations of clustered traveling waves dominate the long-range transmission of memory during sleep.* University of Massachusetts Amherst.
-
-3. **Ng, T.**,  Abedeen, A., Sanchez, R., Mooney, L.,  & Spencer, R. M. C. (Submit by April 2025). *Sleepy, an automated open-source framework for Polysomnography data analysis in Python.* University of Massachusetts Amherst.
-
-4. **Ng, T.**, & Li, Y. (2022). *The impact of introducing biased information on people's market expectations and risk preferences.* Unpublished manuscript, Nanyang Technological University, Singapore.
-
-## **CONFERENCE PRESENTATIONS**  
-1. **Ng, T.**, Mooney, L., Orlovsky, I., Barnes, M., Delvey, C., et al. (June 2025). *Decoding spatiotemporal dynamics of sleep spindles and their age-related effects on emotional memory consolidation.* Expected to present at SLEEP 2025, The 39th Annual Meeting of the Associated Professional Sleep Societies, Seattle, WA.
+Expected B.A. with Honors in Neuroscience and Mathematics, May 2026 <br>
+GPA: 3.95/4.00  &nbsp;&nbsp; Full Tuition Grant (4 years)  
 
 ## **RESEARCH EXPERIENCES**
-**Department of Psychological & Brain Sciences, University of Massachusetts Amherst** <br>
-March 2024 - Ongoing  
-• Studying the grouping of interactions of inter-area traveling waves as trains by designing multi-level behavioral-PSG-fMRI analysis using both traditional and computational methods, under the supervision of Dr. Rebecca Spencer (PI) in the SomNeuro lab.  
-• Designed multi-Gaussian curve fitting and unsupervised classifiers to detect sleep spindle and slow oscillation characteristics flexibly to account for individual differences in frequencies of neural oscillations.  
-• Pioneering neural network models to predict the occurrences and interactions of traveling waves during sleep.  
-• Developing machine learning methods to detect inter-regional phase-amplitude coupling of sleep waves based on rhythmic networks and spatiotemporal compositions.  
-• Improved and generalized computational behavioral methods, including the drift-diffusion model (DDM) and unequal-variance signal detection theory (UVSDT), to measure time drifted changes in memory consolidation.  
-• Developed automated pipelines and interfaces for high-density Polysomnography data preprocessing, cleaning, spectral analysis, event detection, and spatiotemporal analysis.  
-• Advising other labmates in advanced time-series analysis, spectral analysis, data cleaning, and visualization.  
-• Facilitating the lab’s transition to Python for the electrophysiology and neuroimaging analysis.  
 
-June 2023 - March 2024 <br>
-• Applied the Bayesian hierarchical model in R to conduct a meta-analysis of 297 effect sizes, examining the relationship between memory consolidation and phase-amplitude coupling of neural oscillations during sleep.  
-• Applied advanced statistical analysis approaches including non-linear hypothesis testing, leave-one-out cross-validation, distribution approximation & transformation, and simulation to include multi-level moderators in meta-analysis and solve complex statistical problems beyond the scope of existing functions.  
-• Re-evaluated the statistical power, robustness, and properties of the circular-linear regression in the phase-amplitude coupling, and developed novel standardization methods to approximate a normal distribution.  
-• Revealed that precise and strong SO-fast SP coupling in the frontal lobe predicts memory consolidation, with the strength of this association mediated by memory type, aging, and dynamic spatiotemporal features.  
+**SomNeuro Lab, University of Massachusetts Amherst** <br>
+June 2023 – Present <br>
+Principal Investigator: Dr. Rebecca Spencer <br>
+
+Project 2: Traveling waves coordinate cross-frequency coupling <br>
+March 2024 – Present <br>
+• Investigated large-scale coordination of sleep dynamics by modeling inter-regional traveling wave trains and their role in memory consolidation across simultaneous behavioral, high-density PSG, fMRI, and DTI datasets.<br>
+• Designed flexible multi-Gaussian curve-fitting algorithms and unsupervised classifiers for detecting sleep spindles and slow oscillations, accounting for individual variability in oscillatory frequency and morphology.<br>
+• Implemented comprehensive analyses combining phase gradient directionality (PGD) and inter-wave temporal synchronization to quantify the spatial organization and propagation of traveling waves, revealing hierarchical information processing dynamics during nREM sleep.<br>
+• Characterized bidirectional interactions between traveling wave dynamics and slow oscillation-spindle coupling, demonstrating that the hierarchical timing structure of traveling waves predicts coupling phase and strength, whereas coupled traveling wave trains exhibit more consistent spatiotemporal propagation direction.<br>
+• Pioneered neural network models to simulate the occurrences and interactions of traveling waves during sleep.<br>
+• Improved and generalized computational behavioral methods, including the drift-diffusion model (DDM) and unequal-variance signal detection theory (UVSDT), to measure time-drifted changes in memory consolidation.<br>
+• Developed automated pipelines and interfaces in Python for high-density PSG data preprocessing, cleaning, spectral analysis, event detection, and spatiotemporal analysis.<br>
+• Advised other labmates in advanced time-series analysis, spectral analysis, data cleaning, and visualization.<br>
+• Facilitated the lab’s transition to Python for the electrophysiology and neuroimaging analysis.
+
+Project 3: TMR-evoked traveling waves unify sleep-wake memory dynamics <br>
+June 2025 – Present <br>
+• Developed a novel behavioral paradigm that separates neural signals across visual, auditory, motor, and spatial levels to decode how targeted auditory stimulation during nREM sleep reorganizes memory representations.<br>
+• Implemented an automatic closed-loop TMR protocol delivering auditory cues precisely at slow-oscillation up- and down-states to examine state-dependent modulation of memory reactivation and network synchronization.<br>
+• Developing multivariate pipelines that combine representational similarity analysis and cross-state decoding to track item-level memory reorganization across encoding, wake and sleep-dependent consolidation, and retrieval.<br>
+• Quantifying cross-frequency coupled traveling waves to identify shared, decodable propagation pathways linking slow oscillation-spindle waves during nREM sleep with theta-alpha waves during wake across the same cue-aligned trials, characterizing their computational role in memory reorganization.<br>
+• Extending dynamic system modeling and temporal renormalization group-based autoregressive metrics to test how proximity to criticality supports long-range communication and gains in memory precision and confidence.<br>
+
+Project 1: Bayesian meta-analysis in slow oscillation-spindle coupling <br>
+June 2023 – March 2024 <br>
+• Applied the Bayesian hierarchical model in R to conduct a meta-analysis of 297 effect sizes, examining the 
+relationship between memory consolidation and phase-amplitude coupling of neural oscillations during sleep.<br>
+• Applied advanced statistical analysis approaches, including non-linear hypothesis testing, leave-one-out cross-validation, distribution approximation & transformation, and simulation to include multi-level moderators in meta-analysis and solve complex statistical problems beyond the scope of existing functions.<br>
+• Re-evaluated the statistical power, robustness, and properties of the circular-linear regression in the phase-amplitude coupling, and developed novel standardization methods to approximate a normal distribution.<br>
+• Revealed that precise and strong SO-fast SP coupling in the frontal lobe predicts memory consolidation, with the strength of this association mediated by memory type, aging, and dynamic spatiotemporal features.<br>
+
+**Washington University in St. Louis & NIH ENDURE program** <br>
+June 2025 – Present <br>
+Principal Investigators: Drs. Keith Hengen, Deanna Barch, Joan Luby <br>
+• Leading research in neural criticality and computational efficiency across species and recording scales using human EEG, sEEG, fMRI, as well as LFP and spike datasets of rodents, by extending temporal renormalization group (tRG) theory to multiscale neural systems.<br>
+• Developed autoregressive (AR) and multivariate stochastic differential equation (SDE) models to simulate, decompose, and distinguish critical and oscillatory dynamics in continuous, discretized, and discrete signals, providing parameter optimization frameworks for empirical data analysis.<br>
+• Implemented AR modeling on empirical data to quantify criticality across temporal reaches and multiple signal representations, including filtered, envelope, and mode decomposed forms, enabling within- and between-stage analyses of how criticality evolves across wake-sleep transitions.<br>
+• Identified sleep as a restorative process that reestablishes critical neural dynamics and optimizes computation in humans, revealing distinct stage- and region-specific signatures across cortical and subcortical structures.<br>
+• Performed longitudinal analyses spanning infancy (9 months) through early childhood (8 years), characterizing developmental trajectories in the reemergence of criticality across sleep-wake transitions.<br>
+• Designed and trained a machine learning classifier to predict spontaneous awakening events based on pre- arousal fluctuations in neural criticality, contributing to early markers of arousal transitions.<br>
+• Integrating behavioral assessments with electrophysiological measures to examine how deviations from criticality correlate with individual differences in neuropsychiatric development.<br>
+• Due to NIH funding suspension, my ENDURE experience was fully funded by the Department of Psychiatry.
 
 **Chemers Neustein Summer Undergraduate Research Fellowship (SURF) Program, The Rockefeller University** <br>
 June 2024 – September 2024 <br>
+Principal Investigator: Dr. Winrich Freiwald <br>
 • Researched inter-area interactions of neural representations under the mentorship of Dr. Lucas Tian and Dr. Winrich Freiwald (PI) in the Laboratory of Neural Systems, supported by the Rockefeller SURF Fellowship.  
 • Developed moment-to-moment logistic regression decoders to extract shape and location representations of visual-motor integration from multi-neuron activity recorded across multiple brain regions in macaque monkeys.  
 • Discovered dynamic shifts in inter-area communication of neural representation across various phases of multi-step action planning and execution sequences using cross-correlations and custom permutation tests.  
@@ -69,44 +86,12 @@ March 2021 – July 2021 <br>
 • Worked on the design and collection of questionnaires, modeling, and data analysis in SPSS.  
 
 ## **RESEARCH OBJECTIVES**
-Cognitive neuroscience; Computational neuroscience; Advanced mathematical and statistical modeling; Advanced neuroscience technique, theory, & framework developments; Topics in sleep, memory, learning, emotion, & decision-making; The effects of development, aging, gender, disability, & patient factors.
+Systems and computational neuroscience; Cognitive functions, Mathematical and statistical modeling; Neural dynamics (oscillatory & aperiodic networks, criticality, and connectivity); Dynamic systems and neural network models; Mechanisms of memory, sleep, & plasticity; Multi-scale neural computation across brain states, modalities & developmental trajectories; Effects of aging, gender, disability, and neurological conditions on neural communication and cognition; Open, transparent, and reproducible science.
 
 ## **RELEVANT SKILLS AND CERTIFICATIONS**
-•  Expert in Python, R, MATLAB, SPSS, interfaces including MNE-Python, Nipy, SPM, FSL, Stan, Fieldtrip, EEGLAB, and pipeline & package developments.  
-•  Highly proficient with EEG, PSG, fMRI, DTI, in vivo electrophysiology, behavioral analysis, computational modeling, advanced statistical analysis, data handling and visualization, machine learning & deep learning, multi-level modeling of neural data, novel statistical method development, and simulation.  
-• Proficiently skilled in mathematical and physical modeling of dynamic spatiotemporal composition, neural networks and circuits, functional and structural connectivity, and nonlinear systems.  
-•  Extensive experience with basic software and languages including LaTeX, Microsoft Word, Excel, PowerPoint, Photoshop, Illustrator, etc. for manuscript writing and visualization.  
-•  Familiar with working with people including children and elderly from diverse backgrounds.  
-•  Have strong research, leadership, communication, innovation, mentorship, problem-solving, and critical thinking skills, as well as unwavering enthusiasm and curiosity for advanced research topics.  
-
-## **STEM COURSES TAKEN**
-Undergraduate math/stat courses: <br>
-Calculus III, A <br>
-Linear Algebra, A <br>
-(Amherst College) Intermediate Statistics, A <br>
-(Amherst College) Statistics & Experimental Design, A <br>
-Discrete Mathematics, A <br>
-(Amherst College) Probability, A <br>
-Stochastic Processes, A <br>
-(Smith College) Differential Equations, A <br>
-(Amherst College) Generalized Linear & Mixed Model, Ongoing <br>
-Advanced Linear Algebra, Ongoing
-
-Graduate math/stat courses: <br>
-(UMass Amherst) Statistical Methods/DataSci (Machine Learning), A <br>
-(UMass Amherst) Probability Theory I, A
-
-Undergraduate science courses: <br>
-Intro to Neuroscience, A <br>
-Organic Chemistry I, A <br>
-Cognitive Neuroscience, A <br>
-(Amherst College) Biochemical Principles, A- <br>
-Lab: Behavioral Neuroscience, A <br>
-Research Techniques in Neuro, A <br>
-(Smith College) Cell Biology, A <br>
-Systems Neuroscience, Ongoing <br>
-(UMass Amherst) Advanced Neurobiology, Ongoing <br>
-(UMass Amherst) Independent Study Research, Fall 2023-Spring 2025, A
-
-Graduate science courses: <br>
-(UMass Amherst) Functional Magnetic Resonance Imaging, A
+•  Expert in Python, R, MATLAB, interfaces including MNE-Python, Nipy, SPM, FSL, Stan, Fieldtrip, EEGLAB, and in developing reproducible analysis pipelines and research packages. <br>
+•  Highly proficient with EEG, PSG, fMRI, sMRI, DTI, in vivo electrophysiology (LFP, spikes), behavioral paradigms, advanced statistical analysis, machine learning, multi-level modeling of neural data, cross-species comparative modeling, and novel theory & method development. <br>
+• Proficiently skilled in mathematical and computational modeling of dynamical systems, neural networks, spatiotemporal dynamics, stochastic and probabilistic processes, and functional and structural connectivity. <br>
+• Advanced proficiency in scientific writing, figure and graphical design, and publication preparation using LaTeX, Adobe Illustrator, and Photoshop. <br>
+•  CITI-certified for human and animal research; experienced working with diverse populations, including children, older adults, non-human primates, and rodents. <br>
+•  Fluent in English, Cantonese, Japanese, and Mandarin; strong presentation and communication skills.

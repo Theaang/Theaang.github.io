@@ -25,7 +25,9 @@ Thea /ˈθiə/ [Thee-ah] [Listen](https://www.oxfordlearnersdictionaries.com/def
 🐈 🐈‍⬛ Meow~ Unfortunately, I don't have one at the moment :(
 
 ## **Whiteboard**
-I derive all math and develop models on my whiteboard. Stay tuned for photos!
+<div>
+  <img src="/assets/files/Miscellaneous/Whiteboard.png" alt="Whiteboard" style="width: 300px;">
+</div>
 
 ## **Where do I consider home**
 Hong Kong, [Pioneer Valley](https://www.google.com/maps/place/pioneer+valley+location/data=!4m2!3m1!1s0x89e1188266beb0df:0xd3a4e0c69d6588a5?sa=X&ved=1t:155783&ictx=111), and New York City
