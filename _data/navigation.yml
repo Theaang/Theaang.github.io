@@ -6,11 +6,7 @@ main:
     url: /publication/
   - title: "CV"
     url: /cv/
-  - title: "Modeling"
-    url: /modeling/
   - title: "Resources"
     url: /resources/
-  - title: "Blogs"
-    url: /blogs/
   - title: "Miscellaneous"
     url: /miscellaneous/

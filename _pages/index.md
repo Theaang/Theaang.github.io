@@ -18,7 +18,7 @@ author_profile: false
 
 <li>I presented a <a href="https://theaang.github.io/publication/travelingwave/" target="_blank">talk and poster</a> on the spatiotemporal dynamics of sleep neural oscillations and their relations to memory consolidation in aging at <strong>SLEEP 2025</strong>.</li>
 
-<li>Our <a href="https://doi.org/10.7554/eLife.101992" target="_blank">meta-analysis</a> of slow oscillation–spindle coupling is officially published in <strong>eLife</strong>!</li>
+<li>Our <a href="https://doi.org/10.7554/eLife.101992" target="_blank">meta-analysis</a> of slow oscillation-spindle coupling is officially published in <strong>eLife</strong>!</li>
 
 </ul>
 </div>
