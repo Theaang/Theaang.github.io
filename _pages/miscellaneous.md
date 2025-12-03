@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 ## **Who is Thea?**
-• Thea is a systems neuroscientist 🧠 with the soul of a mathematician. <br>
+• Thea is a neuroscientist 🧠 with the soul of a mathematician. <br>
 • She advocates for DEI in research, social justices, and democracy. <br>
 • Always brimming with ideas, she jots them down anytime, anywhere.<br>
 • She loves train travel and has hiked 60+ trails in Western MA & 10 states 🐾 <br>
@@ -36,7 +36,7 @@ Hong Kong, [Pioneer Valley](https://www.google.com/maps/place/pioneer+valley+loc
 **Collaboration, connection, or have questions?** <br>
 Academic: wu26r at mtholyoke dot edu <br>
 Personal: thea dot cyeng at gmail dot com <br>
-I currently work on a flexible schedule, usually from 1pm-12am. <br>
+I work on a flexible schedule, usually from 1pm-12am. <br>
 
 ## **I support**
 
