@@ -6,6 +6,12 @@ author_profile: false
 classes: wide
 ---
 
+## **Neural Dynamics and Computation**
+ 
+ <img src="/assets/files/Research/neuraldynamics.png" alt="Neural Dynamics" style="width: 380px; height: auto;">
+
+Traditional approaches to neuroscience often attempt to link brain and mind by collapsing complex neural activity and adaptive behavior into static metrics, obscuring the spatial and temporal structure embedded in neural time series. Such reductions treat the brain as a collection of fixed endpoints rather than a nonlinear dynamic system whose functions emerge through continual reorganization. My work challenges this paradigm by investigating how neural dynamics coordinate information flow across changing brain states, from millisecond scale task-related processing to wake-sleep transitions, to support flexible cognition. Addressing this problem requires theoretical frameworks and empirical data analysis that integrate multiple scales. I am particularly interested in how single neuron spiking and population level subspaces interact with, and are constrained by, large-scale network structure and rhythmic activity, including oscillatory and aperiodic components, to implement efficient brain computation and information integration.
+
 ## **My current lab**
 
 <a href="https://www.somneurolab.com/">
@@ -13,10 +19,6 @@ classes: wide
 </a>
 
 Read the excellent works of other lab members [here](https://www.somneurolab.com/publications)!
-
-## **Neural Dynamics**
- 
- <img src="/assets/files/Research/neuraldynamics.png" alt="Neural Dynamics" style="width: 380px; height: auto;">
 
 ## **Summer programs**
 
