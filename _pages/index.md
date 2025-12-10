@@ -12,8 +12,6 @@ author_profile: false
 
 <ul style="margin-top:14px; line-height:1.55;">
 
-<li>I submitted a new abstract to SLEEP 2026: Reciprocal scaling between slow oscillation-spindle traveling waves and coupling as a computational principle of memory reorganization during sleep</li>
-
 <li>I presented a <a href="https://theaang.github.io/publication/multimodalcrit/" target="_blank">poster</a> on a multimodal principle of critical neural dynamics at <strong>SfN 2025</strong>.</li>
 
 <li>Explore our <a href="https://theaang.github.io/publication/localsleep/" target="_blank">pre-released results</a> linking learning-dependent modulation of local aperiodic and oscillatory dynamics across wake and sleep.</li>
